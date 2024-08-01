@@ -1,4 +1,4 @@
-# Overview
+# List Operations and Binary Tree in MeTTa 
 
 This repository contains MeTTa files that demonstrate various list and binary tree operations. The files include implementations for common list manipulations and binary tree structures.
 
@@ -27,7 +27,7 @@ The `list_operations.metta` file includes a variety of functions for list operat
    ```
 - **Checking membership**
     ```meTTa
-! (is-member 1 (Cons 1 (Cons 2 (Cons 3 Nil))))
+    ! (is-member 1 (Cons 1 (Cons 2 (Cons 3 Nil))))
     ```
 - **Output**
     ```meTTA
