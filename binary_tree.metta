@@ -1,3 +1,4 @@
+; Definins a binary tree data structure in MeTTa
 ; Define the Node and Empty constructors.
 (= (Node $value $left $right) (Node $value $left $right))
 (= (Empty) Empty)
