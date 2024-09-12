@@ -14,7 +14,8 @@ The `list_operations.metta` file includes a variety of functions for list operat
 - **Removing Duplicates**: Eliminates duplicate elements from a list.
 - **Mapping and Filtering**: Applies functions to elements and filters lists based on predicates.
 - **Reversing and Sorting**: Reverses the order of elements and sorts the list.
-
+- **Foldr** : Accumulates a result by applying a function to each element and an accumulator from right to left
+- and more ...
 ### Example Usage
 
 - **Length of a List**
