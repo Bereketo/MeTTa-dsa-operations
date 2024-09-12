@@ -1,3 +1,5 @@
+; List Operations in MeTTa
+
 ; FINDING THE LENGTH OF A LIST
 ; Checks if the list is empty (Nil), return 0.
 ; Otherwise, recursively compute the length by adding 1 to the length of the rest of the list.
