@@ -9,6 +9,7 @@ This repository contains MeTTa files that demonstrate various list and binary tr
 The `list_operations.metta` file includes a variety of functions for list operations, such as:
 
 - **Finding the Length of a List**: Computes the number of elements in a list.
+- **Foldl**: Accumulates a result by appplying a function to each element and an accumulator from left to right.
 - **Membership Check**: Determines if an element is present in the list.
 - **Appending and Removing Elements**: Functions for modifying lists by adding or removing elements.
 - **Removing Duplicates**: Eliminates duplicate elements from a list.
